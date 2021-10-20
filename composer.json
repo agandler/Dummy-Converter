@@ -1,0 +1,19 @@
+{
+    "name": "alexandergandler/dummy-converter",
+    "description": "Convert kg to g",
+    "type": "libary",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Alexandergandler\\DummyConverter\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Alexander Gandler",
+            "email": "agandler@schueler.hakzell.at"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
