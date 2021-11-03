@@ -1,10 +1,10 @@
 <?php
-namespace Alexandergandler\DummyConverter;
+namespace Agandler\DummyConverter\TinyConverter;
 
 class TinyConverter
 {
     public static function convert($kg)
     {
-        return $kg = 1000;
+        return $kg * x1000;
     }
 }
