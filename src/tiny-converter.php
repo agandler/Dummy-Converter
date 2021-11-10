@@ -5,6 +5,6 @@ class TinyConverter
 {
     public static function convert($kg)
     {
-        return $kg * x1000;
+        return $kg * 1000;
     }
 }
